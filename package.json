@@ -2,7 +2,7 @@
   "name": "@joaovictor6/next-tjt",
   "description": "boilerplate with typescript, Jest, and tailwind",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "João <santosjoao.dev@gmail.com>",
   "scripts": {
     "dev": "next dev",
