@@ -33,8 +33,5 @@
     "tailwindcss": "^3.0.23",
     "typescript": "4.5.4"
   },
-  "bin": {
-    "create-boilerplate": "./generate-app.js"
-  },
   "repository": {"url": "https://github.com/JoaoVictor6/next-tjt"}
 }
